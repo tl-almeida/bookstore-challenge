@@ -20,26 +20,20 @@ Nem todas as funcionalidades foram implementadas no front através do React. Alg
 
 - Instale as dependências.
 
-  ```powershell
-  yarn
-  ```
+  `yarn` ou `npm istall` 
 
   
 
 - Importe o banco de dados através do Docker e rode-o.
   (O banco de dados foi conteinerizado e pode ser usado em: https://hub.docker.com/r/tlalmeida/bookstore)
 
-  ```powershell
-  docker pull tlalmeida/bookstore
-  ```
+  `docker pull tlalmeida/bookstore`
 
   
 
 - Executa o script "dev" para rodar a API.
 
-  ```powershell
-  yarn dev
-  ```
+  `yarn dev` ou `npm run dev` 
 
   
 
