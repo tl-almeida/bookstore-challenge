@@ -1,10 +1,14 @@
 # bookstore-challenge
 
-Na API foi implementado manter clientes e livros, aluguel e reservas. Nem todas as funcionalidades foram implementadas no front através do React. Algumas funcionalidades estão somente na API e podem ser testadas normalmente.
+### Tecnologias usadas
+
+As tecnologias utilizadas foram NodeJS, ReactJS e Postgres.
 
 <hr>
 
-As tecnologias utilizadas foram NodeJS, ReactJS e Postgres.
+Na API foi implementado manter clientes e livros, aluguel e reservas. 
+
+Nem todas as funcionalidades foram implementadas no front através do React. Algumas funcionalidades estão somente na API e podem ser testadas normalmente.
 
 <hr>
 
