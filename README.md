@@ -18,15 +18,30 @@ Nem todas as funcionalidades foram implementadas no front através do React. Alg
 
 ### Passos:
 
-- Instale as dependências
+- Instale as dependências.
 
-- Importe o banco de dados através do Docker e rode-o
-
-- Executa o script "dev" para rodar a API
+  ```powershell
+  yarn
+  ```
 
   
 
-  O banco de dados foi conteinerizado e pode ser usado: https://hub.docker.com/r/tlalmeida/bookstore
+- Importe o banco de dados através do Docker e rode-o.
+  (O banco de dados foi conteinerizado e pode ser usado em: https://hub.docker.com/r/tlalmeida/bookstore)
+
+  ```powershell
+  docker pull tlalmeida/bookstore
+  ```
+
+  
+
+- Executa o script "dev" para rodar a API.
+
+  ```powershell
+  yarn dev
+  ```
+
+  
 
 <hr>
 
