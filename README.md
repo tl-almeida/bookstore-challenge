@@ -2,7 +2,9 @@
 
 ### Tecnologias usadas
 
-As tecnologias utilizadas foram NodeJS, ReactJS e Postgres.
+`NodeJS 
+ReactJS
+Postgres.`
 
 <hr>
 
