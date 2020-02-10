@@ -1,7 +1,5 @@
 ## Desafio Digivox
 
-<hr>
-
 ### Tecnologias usadas
 
 ```
@@ -38,10 +36,3 @@ Nem todas as funcionalidades foram implementadas no front através do React. Alg
   
 
 <hr>
-
-
-
-
-
-
-
