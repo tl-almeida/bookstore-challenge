@@ -1,7 +1,5 @@
 # bookstore-challenge
 
-<hr>
-
 Na API foi implementado manter clientes e livros, aluguel e reservas. Nem todas as funcionalidades foram implementadas no front através do React. Algumas funcionalidades estão somente na API e podem ser testadas normalmente.
 
 <hr>
