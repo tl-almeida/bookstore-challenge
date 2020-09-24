@@ -1,4 +1,4 @@
-## Desafio Digivox
+## Desafio DGVX
 
 ### Tecnologias usadas
 
